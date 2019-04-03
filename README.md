@@ -9,7 +9,8 @@
 | ------ | ------ |
 | GUI | отвечает за графический интерфейс, реализованный с помощью Swing |
 | Main | класс, запускающий приложение |
-| Calculator | Отвечает за обработку строки в обратной польской записи\n и послеующие вычисления |
+| Calculator | Отвечает за обработку строки в обратной польской записи 
+и послеующие вычисления |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
