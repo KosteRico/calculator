@@ -5,11 +5,11 @@
     - operators — пакет, содержащий все классы, отвечающие за конкретную операцию;
   - gui — пакет, содержащий класс GUI и Main;
 ## Классы:
-| Класс | НазначениеME |
+| Класс | Назначение |
 | ------ | ------ |
 | GUI | отвечает за графический интерфейс, реализованный с помощью Swing |
 | Main | класс, запускающий приложение |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| Calculator | Отвечает за обработку строки в обратной польской записи\n и послеующие вычисления |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
